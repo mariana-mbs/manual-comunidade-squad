@@ -14,3 +14,7 @@ Nosso objetivo é incentivar a troca de experiências, o desenvolvimento de proj
 - Colaboração e trabalho em equipe; 
 - Compartilhamento de conhecimento;
 - Aprendizado contínuo e inclusão.
+
+## Como participar
+
+Todos são bem-vindos a contribuir com ideias, sugestões e melhorias, sempre respeitando as regras da comunidade.
