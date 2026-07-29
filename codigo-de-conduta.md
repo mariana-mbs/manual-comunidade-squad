@@ -6,9 +6,9 @@ Nos dedicamos a proporcionar uma experiência livre de assédio, discriminação
 ## 2. Nossos Padrões
 Exemplos de comportamentos que contribuem para criar um ambiente positivo:
 * Usar linguagem empática, acolhedora e inclusiva.
-* Respeitar ponots de vista e experiências diferentes.
+* Respeitar pontos de vista e experiências diferentes.
 * Aceitar críticas construtivas graciosamente.
-* FOcar no que é melhor para a comunidade.
+* Focar no que é melhor para a comunidade.
 
 Exemplos de comportamentos inaceitáveis:
 * Uso de linguagem ou imagem de caráter sexual.
