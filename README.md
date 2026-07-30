@@ -8,7 +8,7 @@ O objetivo da atividade é praticar o fluxo de colaboração com Git e GitHub, i
 
 - [Sobre a comunidade](sobre.md)
 - [Perguntas frequentes](faq.md)
-- [Contato](contatos.md)
+- [Contato](contato.md)
 - [Código de Conduta](codigo-de-conduta.md)
 
 ## Colaboração
